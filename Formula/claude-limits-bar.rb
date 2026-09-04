@@ -1,8 +1,8 @@
 class ClaudeLimitsBar < Formula
   desc "Claude Code limits and reset times in the macOS menu bar"
   homepage "https://github.com/TilbertBalaban/claude-limits-bar"
-  url "https://github.com/TilbertBalaban/claude-limits-bar/archive/refs/tags/v1.2.2.tar.gz"
-  sha256 "8deebb3fcc0aa4ebc07c99523dfdf7dd95d03a21c6ef069c9ce1219ea4dda7b4"
+  url "https://github.com/TilbertBalaban/claude-limits-bar/archive/refs/tags/v1.2.3.tar.gz"
+  sha256 "e977719f5b060ad9c4ba3929389d5bccdccadc765159658703e7c3724c740888"
   license "MIT"
 
   depends_on :macos
