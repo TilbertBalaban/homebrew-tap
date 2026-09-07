@@ -1,7 +1,7 @@
-# homebrew-tap
+# Usage Limits Bar Homebrew Tap
 
 Personal Homebrew tap.
 
-```
-brew install tilbertbalaban/tap/claude-limits-bar
+```sh
+brew install tilbertbalaban/tap/usage-limits-bar
 ```
